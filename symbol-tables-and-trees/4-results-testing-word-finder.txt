@@ -1,0 +1,19 @@
+**************************************************************************************************
+
+(WORD INDICES - example execution)
+
+    "C:\Program Files\Java\" ...
+
+    The program has read the first 100 lines of the novel 'A Tale Of Two Cities'.
+    You have asked the program to calculate the character indices where you find the word 'ebook'.
+    The indices are listed below:
+
+     19
+     62
+     227
+     343
+     448
+
+    Process finished with exit code 0
+
+**************************************************************************************************

@@ -1,0 +1,30 @@
+"C:\Program Files\Java\..."
+
+************************* DFS PATHS TEST ***************************
+
+AL to AL
+AL
+AL to FL
+AL-TN-VA-NC-SC-GA-FL
+
+[...]
+
+AL to ME
+AL-TN-VA-WV-PA-NY-VT-NH-ME
+AL to ND
+AL-TN-VA-WV-PA-OH-MI-WI-MN-SD-WY-UT-NV-OR-WA-ID-MT-ND
+
+*********************************************************************
+
+************************* BFS SHORTEST PATH TEST ********************
+
+Checking path between AL and ME ...
+Shortest path is 8 flights long.
+The flightpath you should take looks as follows:
+
+AL -> TN -> VA -> WV -> PA -> NY -> VT -> NH -> ME
+
+*********************************************************************
+
+Process finished with exit code 0
+

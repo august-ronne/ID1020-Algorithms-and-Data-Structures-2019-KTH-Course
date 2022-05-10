@@ -1,0 +1,16 @@
+"C:\Program Files\Java\" ...
+
+************************************************
+	DIGRAPH BFS AND DIRECTED CYCLE TEST
+
+There is a path between AL and NH
+
+AL -> TN -> VA -> NH
+
+Found directed cycle: 
+
+NH -> AL -> TN -> VA -> NH -> 
+
+************************************************
+
+Process finished with exit code 0

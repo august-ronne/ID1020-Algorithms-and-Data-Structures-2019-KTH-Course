@@ -1,0 +1,43 @@
+*****************************************************************************************************
+
+(BINARY SEARCH TREE SYMBOL TABLE -- example execution)
+
+	"C:\Program Files\Java\jdk1.8.0_161\" ...
+
+	**** BST TEST ****
+
+	The most frequently occurring word in the read .txt-file was [the] with 8230 occurrences.
+	Running this test using a BST data structure took 489683943 nanoseconds.
+
+	Process finished with exit code 0
+
+******************************************************************************************************
+
+(BINARY SEARCH SYMBOL TABLE -- example execution)
+
+    "C:\Program Files\Java\jdk1.8.0_161\" ...
+
+    **** BINARY SEARCH SYMBOL TABLE TEST ****
+
+    The most frequently occurring word in the read .txt-file was [the] with 8230 occurrences.
+    Running this test with a BinarySearchST data structure took 669659646 nanoseconds
+
+    The .txt file contained 9927 unique keys
+    You have asked the program to show you the 1 to 6 most common words.
+
+    1. 'the', 8230 occurrences.
+    2. 'and', 5067 occurrences.
+    3. 'of', 4139 occurrences.
+    4. 'to', 3651 occurrences.
+    5. 'in', 2660 occurrences.
+    6. 'it', 2082 occurrences.
+
+
+	Process finished with exit code 0
+
+******************************************************************************************************
+
+(CONCLUSION)
+
+	The result of running the test 10 times for each symbol table was that Binary Search Tree performed, on average,
+	20 % faster than Binary Search Symbol Table

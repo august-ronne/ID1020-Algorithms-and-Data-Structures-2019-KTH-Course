@@ -1,0 +1,17 @@
+************************************************************************************************
+
+(RED BLACK BST -- example execution)
+
+    "C:\Program Files\Java\" ...
+
+    Storing every word and its number of occurrences asa key-value pair in a red black BST
+    and then finding the most frequently occurring word took 485730141 nanoseconds.
+    The most frequently occurring word was [the] with 8230 occurrences.
+
+    Process finished with exit code 0
+
+************************************************************************************************
+
+    10 test runs gave an average execution time of ~ 490 000 000 nanoseconds.
+    This is approximately 20 % faster than the Binary Search Ordered Array structure, and
+    the same speed as the BST.

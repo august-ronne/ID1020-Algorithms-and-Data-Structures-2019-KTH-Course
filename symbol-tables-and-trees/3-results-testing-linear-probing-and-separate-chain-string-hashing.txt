@@ -1,0 +1,39 @@
+***********************************************************************************************
+
+(LINEAR PROBING HASH -- example execution)
+
+	"C:\Program Files\Java\" ...
+
+	Storing every word and its number of occurrences as
+	a key-value pair in a Linear Probing Hash Symbol Table
+	and then finding the most frequently occurring word took 404540721 nanoseconds.
+
+	Process finished with exit code 0
+
+***********************************************************************************************
+
+***********************************************************************************************
+
+(SEPARATE CHAINING HASH -- example execution )
+
+	"C:\Program Files\Java\" ...
+
+	Storing every word and its number of occurrences as
+	a key-value pair in a Separate Chaining Hash Symbol Table
+	and then finding the most frequently occurring word took 454108974 nanoseconds.
+
+	The program has read 9927 unique words, counted their frequency, 
+	and stored this data as key-value pairs in a hash table. 
+
+	This array consists of 1024 cells, of which 0 are empty.
+	The longest chain of key-value pairs is found at index 744 and this chain is 20 nodes long.
+	The average length of the key-value pair chains is 9.70
+
+	Process finished with exit code 0
+
+***********************************************************************************************
+
+(CONCLUSION)
+
+	The result of 10 test runs for each hashing solution showed that linear probing performed, on average,
+	15 % faster than separate chaining.

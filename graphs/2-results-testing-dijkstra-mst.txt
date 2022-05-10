@@ -1,0 +1,49 @@
+"C:\Program Files\Java\" ...
+
+****************************************************************************************
+
+	DIJSKTRA TEST
+
+AL to ME (total path length: 492.0 km)
+
+AL <-> TN    (4.0 km)
+TN <-> VA    (105.0 km)
+DC <-> VA    (27.0 km)
+DC <-> MD    (26.0 km)
+DE <-> MD    (28.0 km)
+DE <-> NJ    (29.0 km)
+NJ <-> NY    (91.0 km)
+CT <-> NY    (24.0 km)
+CT <-> MA    (23.0 km)
+MA <-> NH    (64.0 km)
+ME <-> NH    (71.0 km)
+
+****************************************************************************************
+
+	CC AND PRIM TEST
+
+There is a total of 1 connected components. This component consists of 49 vertices.
+
+FL AL (1.0)
+GA AL (2.0)
+MS AL (3.0)
+TN AL (4.0)
+MS AR (7.0)
+LA AR (5.0)
+MO AR (6.0)
+OK AR (8.0)
+TX AR (10.0)
+
+[...]
+
+MA CT (23.0)
+RI CT (25.0)
+NH MA (64.0)
+VT MA (67.0)
+NH ME (71.0)
+
+Total weight of mst: 1488.0
+
+****************************************************************************************
+
+Process finished with exit code 0

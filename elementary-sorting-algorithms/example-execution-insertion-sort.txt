@@ -1,0 +1,21 @@
+/**
+ * EXAMPLE EXECUTION -- ASSIGNMENT 1, LAB 2: ELEMENTARY SORTS
+ *
+ */
+
+You have created an array with room for 6 integers.
+
+The following integers have been added to your array:
+[1], [2], [3], [4], [5], [0] 
+
+Your array will now be sorted in ascending order.
+[1], [2], [3], [4], [0], [5] 
+[1], [2], [3], [0], [4], [5] 
+[1], [2], [0], [3], [4], [5] 
+[1], [0], [2], [3], [4], [5] 
+[0], [1], [2], [3], [4], [5] 
+
+Your array has been sorted
+[0], [1], [2], [3], [4], [5] 
+
+Process finished with exit code 0
